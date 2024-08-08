@@ -1,8 +1,4 @@
-- Opa, eu sou a Ana
+Opa, eu sou a Ana
+- Aluna IFPR, Tecnico em Desenvolvimento de Sistemas
 - pronomes: ela/dela e ele/dele
-
-
-<!---
-AgemT/AgemT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Superdotada com altas habilidades
